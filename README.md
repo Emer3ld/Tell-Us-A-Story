@@ -1,6 +1,23 @@
 # Report title goes here
 
-Name of author, link to github repo with project work in / link to Edge Impulse projects
+# 💫 About yhe project:
+This project will use the capabilities of the Raspberry Pi to create an interactive device that recognises (specific) artefacts using image recognition technology and responds by playing an audio story about the object. Using the Raspberry Pi Camera Module for real-time image capture and TensorFlow Lite for efficient image processing, the system can classify images into predefined categories. If successful in recognition, the system plays back a short audio story, corresponding to the identified object, creating a pocket size immersive and educational experience.<br>
+
+
+# 💻 Tech Stack:
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Emer3ld&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Emer3ld&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Emer3ld&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Emer3ld&icon=0&color=3)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->, link to github repo with project work in / link to Edge Impulse projects
 
 ## Introduction
 - an overview of what the project does
