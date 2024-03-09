@@ -1,7 +1,16 @@
 # Report title goes here
 
-# 💫 About yhe project:
+# 💫 About the project:
 This project will use the capabilities of the Raspberry Pi to create an interactive device that recognises (specific) artefacts using image recognition technology and responds by playing an audio story about the object. Using the Raspberry Pi Camera Module for real-time image capture and TensorFlow Lite for efficient image processing, the system can classify images into predefined categories. If successful in recognition, the system plays back a short audio story, corresponding to the identified object, creating a pocket size immersive and educational experience.<br>
+
+My inspiration comes from a popular 90's kids TV programmes such as Jackanory, books- Horrible Histories and the british museums app, where a factual account is given on 250 artefacts. I thought, how could I make looking at artefacts or a trip to the museum more engaging.
+![audio_app_screenshot_gallery_300x690](https://github.com/Emer3ld/Tell-Us-A-Story/assets/114082509/a2d77982-d806-4bcf-85ed-3d6ea3666fc0)
+
+![Jackanory1](https://github.com/Emer3ld/Tell-Us-A-Story/assets/114082509/b15d9c56-7143-40e2-a90c-2921fd382c5f)
+
+![Horrible Histories](https://github.com/Emer3ld/Tell-Us-A-Story/assets/114082509/c7c8175c-1539-492f-b085-52fb0c36e33d)
+
+
 
 
 # 💻 Tech Stack:
@@ -27,9 +36,8 @@ This project will use the capabilities of the Raspberry Pi to create an interact
 *Tip: probably ~200 words and images are good!*
 
 ## Research Question
-What is the problem you are trying to solve
+Can TinyML-optimised for image recognition model be deployed on a Raspberry Pi Zero W, coupled with an audio storytelling feature upon succesful image recognition,achieve real-time performance with high accuracy making it suitable for portable educational tools.
 
-*Tip: probably 1 or 2 sentences*
 
 ## Application Overview
 Thinking back to the various application diagrams you have seen through the module - how would you describe an overview of the building blocks of your project - how do they connect, what do the component parts include.
