@@ -1,4 +1,4 @@
-# Report title goes here
+# Tell Us a Story
 
 # 💫 About the project:
 This project will use the capabilities of the Arduino Portenta H7 to create an interactive device that recognises (specific) artefacts using image recognition technology and responds by playing an audio story about the object. Using the Portenta Vision ShieldModule for real-time image capture and TensorFlow Lite for efficient image processing, the system can classify images into predefined categories. If successful in recognition, the system plays back a short audio story, corresponding to the identified object, creating a pocket size immersive and educational experience.<br>
