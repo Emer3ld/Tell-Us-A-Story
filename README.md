@@ -1,7 +1,7 @@
 # Report title goes here
 
 # 💫 About the project:
-This project will use the capabilities of the Raspberry Pi to create an interactive device that recognises (specific) artefacts using image recognition technology and responds by playing an audio story about the object. Using the Raspberry Pi Camera Module for real-time image capture and TensorFlow Lite for efficient image processing, the system can classify images into predefined categories. If successful in recognition, the system plays back a short audio story, corresponding to the identified object, creating a pocket size immersive and educational experience.<br>
+This project will use the capabilities of the Arduino Portenta H7 to create an interactive device that recognises (specific) artefacts using image recognition technology and responds by playing an audio story about the object. Using the Portenta Vision ShieldModule for real-time image capture and TensorFlow Lite for efficient image processing, the system can classify images into predefined categories. If successful in recognition, the system plays back a short audio story, corresponding to the identified object, creating a pocket size immersive and educational experience.<br>
 
 My inspiration comes from a popular 90's kids TV programmes such as Jackanory, books- Horrible Histories and the british museums app, where a factual account is given on 250 artefacts. I thought, how could I make looking at artefacts or a trip to the museum more engaging.
 ![BL](https://github.com/Emer3ld/Tell-Us-A-Story/assets/114082509/512cb0bc-6ec6-49a8-a291-e742dec46bda)
